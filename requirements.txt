@@ -1,0 +1,7 @@
+fastapi==0.95.2
+uvicorn[standard]==0.22.0
+databases[asyncpg]==0.6.3
+SQLAlchemy==1.4.49
+pydantic==1.10.7
+bcrypt==4.0.1
+python-jose==3.3.0
